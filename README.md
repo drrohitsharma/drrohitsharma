@@ -1,47 +1,44 @@
-# Hi, I'm Dr. Rohit Sharma 👋
+# Dr. Rohit Sharma | Research Portfolio
 
-**PhD | Biomedical Artificial Intelligence | Deep Learning | Signal Processing**
+**PhD Researcher | Biomedical Artificial Intelligence | Deep Learning | Signal Processing**
 
-I am a researcher with a PhD focused on AI-driven thyroid cancer detection. My research interests include medical image analysis, biomedical signal processing, machine learning, and deep learning for healthcare applications.
+I am a researcher working at the intersection of artificial intelligence, machine learning, and biomedical applications. My doctoral research focused on deep learning and machine learning approaches for thyroid cancer detection.
 
-## 🔬 Research Interests
+## Research Interests
 
 - Biomedical Artificial Intelligence
-- Deep Learning for Medical Image Analysis
+- Medical Image Analysis and Cancer Detection
+- Physiological Signal Processing
 - PPG-to-ABP Waveform Estimation
-- Blood Pressure Estimation: SBP, DBP, and MAP
-- Biomedical Signal Processing and Time-Frequency Analysis
-- Transformer-Based Models for Healthcare
-- Explainable AI and Reproducible Machine Learning
+- Deep Learning and Transformer-Based Models
+- Explainable and Reproducible AI
 
-## 🧪 Research Projects
+## Academic Profiles
 
-### 1. Thyroid Cancer Detection
-Deep learning and machine learning approaches for thyroid cancer detection using ultrasound and histopathological images.
+- **Google Scholar:** https://scholar.google.com/citations?user=48LBck4AAAAJ
+- **GitHub:** https://github.com/drrohitsharma
+- **Email:** drrohit.sankhyan@gmail.com
 
-### 2. PPG-to-ABP Estimation
-Developing and evaluating machine learning and deep learning approaches for estimating arterial blood pressure waveforms and blood pressure parameters from photoplethysmography (PPG) signals.
+## Research Projects
 
-### 3. Biomedical Signal Processing
-Exploring signal transforms, time-frequency representations, feature extraction, and hybrid learning frameworks for biomedical applications.
+### Thyroid Cancer Detection
+Machine learning and deep learning approaches for analysing ultrasound and histopathological images.
 
-## 🛠️ Technical Interests
+### PPG-to-ABP Estimation
+Research on estimating arterial blood pressure waveforms and systolic, diastolic, and mean arterial pressure from photoplethysmography signals.
 
-Python · NumPy · Pandas · Scikit-learn · PyTorch · TensorFlow · Signal Processing · Machine Learning
+### Biomedical Signal Processing
+Exploration of time-frequency representations, signal transforms, feature extraction, and machine learning for biomedical data.
 
-## 🎯 Research Goals
+## Publications
 
-- Develop reproducible AI/ML pipelines for biomedical applications.
-- Evaluate models using robust validation and clinically relevant metrics.
-- Promote transparent, well-documented scientific computing.
-- Collaborate on interdisciplinary research in AI and healthcare.
+My publication list and citation information are available through my Google Scholar profile. A structured bibliography with verified titles, publication venues, years, DOI links, and publication statuses will be maintained here.
 
-## 🤝 Collaboration
+## Research Code and Reproducibility
 
-I am interested in research collaborations in biomedical AI, medical image analysis, physiological signal processing, and deep learning.
+This profile will host documented research implementations, experiment configurations, evaluation procedures, and reproducible machine learning workflows as projects become available.
 
-📧 Email: drrohit.sankhyan@gmail.com
+## Collaboration
 
----
+Interested in interdisciplinary research in biomedical AI, medical image analysis, physiological signal processing, and deep learning.
 
-*Research code, publications, and project documentation will be added as they become available.*
