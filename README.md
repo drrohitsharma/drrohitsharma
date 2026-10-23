@@ -1,6 +1,6 @@
 # Dr. Rohit Sharma | Research Portfolio
 
-**PhD Researcher | Biomedical Artificial Intelligence | Deep Learning | Signal Processing**
+**PhD | Biomedical Artificial Intelligence | Deep Learning | Signal Processing**
 
 I am a researcher working at the intersection of artificial intelligence, machine learning, and biomedical applications. My doctoral research focused on deep learning and machine learning approaches for thyroid cancer detection.
 
