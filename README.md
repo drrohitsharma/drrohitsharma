@@ -1,4 +1,4 @@
-# Hi, I'm Dr.Rohit Sharma 👋
+# Hi, I'm Dr. Rohit Sharma 👋
 
 **PhD | Biomedical Artificial Intelligence | Deep Learning | Signal Processing**
 
